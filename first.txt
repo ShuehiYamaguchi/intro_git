@@ -2,3 +2,5 @@ Githubの練習中です。
 
 .git rm
 git status
+.git diff
+.git add
