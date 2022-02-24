@@ -1,3 +1,4 @@
 Githubの練習中です。
 
 .git rm
+git status
